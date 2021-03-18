@@ -1,0 +1,35 @@
+{
+    "538a-4542-81ad": {
+        "fields": {
+            "22e1-4fe8-bce0": {
+                "id": "22e1-4fe8-bce0", 
+                "name": "Topic", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "5c51-42b0-a349": {
+                "id": "5c51-42b0-a349", 
+                "name": "vaccinated", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "e3ac-4df1-9c33": {
+                "id": "e3ac-4df1-9c33", 
+                "name": "each vaccines", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "2a38-4678-9ef2": {
+                "id": "2a38-4678-9ef2", 
+                "name": "affect", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "newspaper"
+    }
+}
